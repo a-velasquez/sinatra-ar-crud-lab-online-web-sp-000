@@ -1,4 +1,4 @@
-
+require 'sinatra/active-record/'
 require './config/environment'
 
 begin
